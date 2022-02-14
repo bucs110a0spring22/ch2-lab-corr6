@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ This program tells us the cost per each class by using the number of weeks, number of classes, cost of tuition, and classes per week and dividing. It also takes a list of number 1-5 and prints a random number within that list every time you run the code.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ N/A
 
 ## REFERENCES:
- < List any outside resources used >
+ https://www.tutorialspoint.com/python/index.htm
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ I'm not entirely sure if I saved the list and the result as variables but I got the funtion to work?
